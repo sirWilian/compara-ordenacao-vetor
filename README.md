@@ -14,5 +14,5 @@ o tamanho padrão do vetor é 1000, mas caso você deseje alterá-lo, basta abri
 para limpar os arquivos criados ao compilar o programa, utilize:
 
 ``` bash
-make purge
+make clean
 ```
